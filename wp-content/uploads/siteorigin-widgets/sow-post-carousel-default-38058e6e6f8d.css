@@ -1,0 +1,23 @@
+.so-widget-sow-post-carousel-default-38058e6e6f8d .sow-carousel-wrapper ul.sow-carousel-items li.sow-carousel-item {
+  width: 720px;
+}
+.so-widget-sow-post-carousel-default-38058e6e6f8d .sow-carousel-wrapper ul.sow-carousel-items li.sow-carousel-item .sow-carousel-thumbnail a {
+  background-repeat: no-repeat;
+  background-size: 720px 360px;
+}
+.so-widget-sow-post-carousel-default-38058e6e6f8d .sow-carousel-wrapper ul.sow-carousel-items li.sow-carousel-item .sow-carousel-thumbnail a,
+.so-widget-sow-post-carousel-default-38058e6e6f8d .sow-carousel-wrapper ul.sow-carousel-items li.sow-carousel-item .sow-carousel-thumbnail a span.overlay {
+  width: 720px;
+  height: 360px;
+}
+.so-widget-sow-post-carousel-default-38058e6e6f8d .sow-carousel-wrapper ul.sow-carousel-items li.sow-carousel-item .sow-carousel-thumbnail a:hover {
+  background-size: 800px 400px;
+}
+.so-widget-sow-post-carousel-default-38058e6e6f8d .sow-carousel-wrapper ul.sow-carousel-items li.sow-carousel-item .sow-carousel-default-thumbnail {
+  width: 720px;
+  height: 360px;
+}
+.so-widget-sow-post-carousel-default-38058e6e6f8d .sow-carousel-wrapper ul.sow-carousel-items li.sow-carousel-loading {
+  width: 720px;
+  height: 360px;
+}
